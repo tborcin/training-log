@@ -1,0 +1,85 @@
+[
+  {
+    "19.10.2020": ["easy", "10km", "okolo Hrušova chod Tomino"],
+    "20.10.2020": [
+      "interval",
+      {
+        "intervals": [{ "length": "500m", "repetitions": "15", "pace": "1:40" }]
+      },
+      "1-2min",
+      "uvidíš podľa tepov ako budú klesať",
+      "2km",
+      "2km"
+    ],
+    "21.10.2020": ["rest", "voľno"],
+    "22.10.2020": [
+      "interval",
+      {
+        "intervals": [
+          { "length": "400m", "repetitions": "5", "pace": "1:40" },
+          { "length": "300m", "repetitions": "5", "pace": "1:40" },
+          { "length": "200m", "repetitions": "5", "pace": "1:40" }
+        ]
+      },
+      "zbehnutie dole, ale úplne vyčiluj z nohy na nohu",
+      "2km",
+      "2km"
+    ],
+    "23.10.2020": [
+      "interval",
+      {
+        "intervals": [
+          { "length": "5km", "repetitions": "1", "pace": "4:00" },
+          { "length": "1km", "repetitions": "1", "pace": "5:00" },
+          { "length": "5km", "repetitions": "1", "pace": "4:00" }
+        ]
+      },
+      "1-2min",
+      "Ten jeden km ber ako pauzu, tak sa šanuj kludne aj nad 5 minut chod",
+      "2km",
+      "2km"
+    ],
+    "24.10.2020": ["easy", "20km", "dlhý beh Inovec"],
+    "25.10.2020": ["rest", "voľno"]
+  },
+  {
+    "26.10.2020": [
+      "interval",
+      {
+        "intervals": [{ "length": "200m", "repetitions": "20", "pace": "3:00" }]
+      },
+      "1-2min",
+      "uvidíš ako to budeš zvládať",
+      "2km",
+      "2km"
+    ],
+    "27.10.2020": ["easy", "15km", "volný beh"],
+    "28.10.2020": [
+      "interval",
+      {
+        "intervals": [{ "length": "1km", "repetitions": "10", "pace": "3:40" }]
+      },
+      "2min",
+      "",
+      "2km",
+      "2km"
+    ],
+    "29.10.2020": ["rest", "voľno"],
+    "30.10.2020": [
+      "interval",
+      {
+        "intervals": [
+          { "length": "200m", "repetitions": "5", "pace": "" },
+          { "length": "100m", "repetitions": "8", "pace": "" },
+          { "length": "50m", "repetitions": "5", "pace": "" }
+        ]
+      },
+      "1-2min",
+      "zbehnutie dole, ale úplne vyčiluj z nohy na nohu",
+      "2km",
+      "2km"
+    ],
+    "31.10.2020": ["tempo", "15km", "4:00", "dolina"],
+    "01.11.2020": ["rest", "volno"]
+  }
+]
